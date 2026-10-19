@@ -1,0 +1,1 @@
+### Due to the large size of dataset CSV files, they are not uploaded to this repository. Download the dataset from the [Source](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database) please.
