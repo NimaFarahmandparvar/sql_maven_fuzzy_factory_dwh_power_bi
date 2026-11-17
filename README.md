@@ -9,7 +9,7 @@
 <img width="1207" height="786" alt="data_architecture" src="https://github.com/user-attachments/assets/8c87ef42-1121-4dd2-b6b3-15e634372019" />
 
 ### 2. Data Flow Diagram
-<img width="1331" height="791" alt="data_flow_diagram" src="https://github.com/user-attachments/assets/d7f3bd9f-f0e4-4745-b2d1-efb3746e753f" />
+<img width="1452" height="788" alt="Screenshot 2026-11-17 114526" src="https://github.com/user-attachments/assets/232a831d-8b7c-4514-a6e1-ce0a86d5a388" />
 
 ### 3. Data Integration
 <img width="1121" height="797" alt="data_integration" src="https://github.com/user-attachments/assets/e9c49b3b-3550-4342-ab26-5007759ed997" />
